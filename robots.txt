@@ -1,0 +1,17 @@
+# Robots.txt for SMP IT Ibnu Abbas Klaten
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ibnuabbasklaten.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 10
+
+# Disallow admin/private areas (none in static site)
+# Disallow: /_tools/
+# Disallow: /css/
+# Disallow: /js/
+
+# Host
+Host: https://ibnuabbasklaten.com
